@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Figuras Geometricas</string>
+    <string name="reset">Reset</string>
+    <string name="calcular">Calcular</string>
+</resources>
